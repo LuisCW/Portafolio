@@ -23,11 +23,11 @@ const Projects = () => {
         ? 'Plataforma completa de comercio electrónico para venta de computadoras con pasarela de pago integrada y panel de control para gestión y análisis de ventas y clientes.'
         : 'Complete e-commerce platform for computer sales with integrated payment gateway and control panel for sales and customer management and analytics.',
       images: [
-        '/images/e_commerce1.png',     
-        '/images/e_commerce2.png',
-        '/images/e_commerce3.png',
-        '/images/e_commerce4.png',
-        '/images/e_commerce5.png',
+        `${process.env.PUBLIC_URL}/images/e_commerce1.png`,     
+        `${process.env.PUBLIC_URL}/images/e_commerce2.png`,
+        `${process.env.PUBLIC_URL}/images/e_commerce3.png`,
+        `${process.env.PUBLIC_URL}/images/e_commerce4.png`,
+        `${process.env.PUBLIC_URL}/images/e_commerce5.png`,
       ],
       tech: ['C#','.Net', 'JavaScript', 'Bootstrap','PostgreSQL', 'Azure'],
       github: 'https://github.com/LuisCW/ComputerStore',
@@ -39,11 +39,11 @@ const Projects = () => {
         ? 'Aplicación para automatizar procesos en Excel mediante reconocimiento óptico de caracteres (OCR) de imágenes, facilitando la entrada de datos.'
         : 'Application to automate Excel processes through Optical Character Recognition (OCR) from images, facilitating data entry.',
       images: [
-        '/images/excel1.png',
-        '/images/excel2.png',
-        '/images/excel3.png',
-        '/images/excel4.png',
-        '/images/excel5.png'
+        `${process.env.PUBLIC_URL}/images/excel1.png`,
+        `${process.env.PUBLIC_URL}/images/excel2.png`,
+        `${process.env.PUBLIC_URL}/images/excel3.png`,
+        `${process.env.PUBLIC_URL}/images/excel4.png`,
+        `${process.env.PUBLIC_URL}/images/excel5.png`
       ],
       tech: ['Python', 'OCR', 'Excel API', 'TensorFlow', 'OpenCV', 'PyQt', 'Pandas', 'NumPy', 'Tesseract', 'EasyOCR'],
       github: 'https://github.com/LuisCW/Excel-AI',
@@ -55,12 +55,12 @@ const Projects = () => {
         ? 'Aplicación móvil para escanear texto manuscrito desde fotos tomadas con el celular y convertirlo a texto digital, ideal para notas y documentos.'
         : 'Mobile app to scan handwritten text from phone photos and convert it to digital text, ideal for notes and documents.',
       images: [
-        '/images/ocr1.jpeg',
-        '/images/ocr2.jpeg',
-        '/images/ocr3.jpeg',
-        '/images/ocr4.jpeg',
-        '/images/ocr5.jpeg', 
-        '/images/ocr6.jpeg'
+        `${process.env.PUBLIC_URL}/images/OCR1.jpeg`,
+        `${process.env.PUBLIC_URL}/images/OCR2.jpeg`,
+        `${process.env.PUBLIC_URL}/images/OCR3.jpeg`,
+        `${process.env.PUBLIC_URL}/images/OCR4.jpeg`,
+        `${process.env.PUBLIC_URL}/images/OCR5.jpeg`, 
+        `${process.env.PUBLIC_URL}/images/OCR6.jpeg`
       ],
       tech: ['React Native', 'Python', 'OCR', 'TensorFlow', 'Firebase', 'AWS Lambda', 'Tesseract', 'EasyOCR'],
       github: 'https://github.com/LuisCW/OCR_Escaner_Texto',
@@ -72,10 +72,10 @@ const Projects = () => {
         ? 'Aplicación móvil y web del clima con pronósticos en tiempo real, alertas meteorológicas y visualización de datos históricos.'
         : 'Mobile and web weather application with real-time forecasts, weather alerts and historical data visualization.',
       images: [
-        '/images/weather1.png',
-        '/images/weather2.png',
-        '/images/weather3.png',
-        '/images/weather4.png'
+        `${process.env.PUBLIC_URL}/images/weather1.png`,
+        `${process.env.PUBLIC_URL}/images/weather2.png`,
+        `${process.env.PUBLIC_URL}/images/weather3.png`,
+        `${process.env.PUBLIC_URL}/images/weather4.png`
       ],
       tech: ['Angular', 'OpenWeatherMap API', 'Node.js', 'Typescript', 'Bootstrap', 'Dart', 'Flutter', 'AWS'],
       github: 'https://github.com/LuisCW/weather-app',
@@ -90,10 +90,10 @@ const Projects = () => {
         ? 'Juego de ajedrez con inteligencia artificial y redes neuronales, la IA se entrena y puede aprender del jugador humano en cada partida.'
         : 'Chess game with artificial intelligence and neural networks, the AI trains and can learn from the human player in each match.',
       images: [
-        '/images/chess1.png',
-        '/images/chess2.png',
-        '/images/chess3.png',
-        '/images/chess4.png'
+        `${process.env.PUBLIC_URL}/images/chess1.png`,
+        `${process.env.PUBLIC_URL}/images/chess2.png`,
+        `${process.env.PUBLIC_URL}/images/chess3.png`,
+        `${process.env.PUBLIC_URL}/images/chess4.png`
       ],
       tech: ['Java', 'Python', 'Neural Networks', 'TensorFlow', 'Keras', 'JMonkeyEngine', 'Pandas', 'NumPy'],
       github: 'https://github.com/LuisCW/Ajedrez_IA',
@@ -105,18 +105,18 @@ const Projects = () => {
         ? 'Restaurante italiano con menú interactivo, sistema de reservas en línea y galería de imágenes no solo de los platos sino de su historia y la de Italia para una experiencia completa.'
         : 'Italian restaurant with interactive menu, online reservation system, and image gallery not only of the dishes but also of its history and that of Italy for a complete experience.',
       images: [
-        '/images/restaurant1.png',
-        '/images/restaurant2.png',
-        '/images/restaurant3.png',
-        '/images/restaurant4.png',
-        '/images/restaurant5.png',
-        '/images/restaurant6.png',
-        '/images/restaurant7.png',
-        '/images/restaurant8.png',
-        '/images/restaurant9.png',
-        '/images/restaurant10.png',
-        '/images/restaurant11.png',
-        '/images/restaurant12.png'
+        `${process.env.PUBLIC_URL}/images/restaurant1.png`,
+        `${process.env.PUBLIC_URL}/images/restaurant2.png`,
+        `${process.env.PUBLIC_URL}/images/restaurant3.png`,
+        `${process.env.PUBLIC_URL}/images/restaurant4.png`,
+        `${process.env.PUBLIC_URL}/images/restaurant5.png`,
+        `${process.env.PUBLIC_URL}/images/restaurant6.png`,
+        `${process.env.PUBLIC_URL}/images/restaurant7.png`,
+        `${process.env.PUBLIC_URL}/images/restaurant8.png`,
+        `${process.env.PUBLIC_URL}/images/restaurant9.png`,
+        `${process.env.PUBLIC_URL}/images/restaurant10.png`,
+        `${process.env.PUBLIC_URL}/images/restaurant11.png`,
+        `${process.env.PUBLIC_URL}/images/restaurant12.png`
       ],
       tech: ['React', 'Node.js', 'PostgreSQL', 'Boostrap', 'AWS'],
       github: 'https://github.com/LuisCW/Italian_Restaurant',
