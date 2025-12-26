@@ -1,6 +1,4 @@
-# 🚀 Portafolio Profesional - Luis Gabriel Peraza Muñoz
-
-Portafolio moderno y profesional para Ingeniero de Sistemas y Desarrollador Full Stack de la Universidad Nacional de Colombia, con diseño responsive, animaciones suaves y soporte multiidioma (Español/Inglés).
+#  Portafolio Profesional - Luis Gabriel Peraza Muñoz
 
 [![React](https://img.shields.io/badge/React-19.2.0-blue)](https://reactjs.org/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.23.24-purple)](https://www.framer.com/motion/)
@@ -28,15 +26,9 @@ Soy **Luis Gabriel Peraza Muñoz**, estudiante de Ingeniería de Sistemas en la 
 ## 🌍 Idiomas Disponibles
 
 Este portafolio está completamente disponible en:
-- 🇪🇸 **Español** (por defecto)
+- 🇪🇸 **Español** 
 - 🇬🇧 **English**
 
-El cambio de idioma es dinámico y afecta todas las secciones del sitio incluyendo:
-- Navegación
-- Presentación y biografía
-- Descripciones de proyectos y experiencia
-- Formulario de contacto
-- Footer y mensajes del sistema
 
 ## ✨ Características
 
@@ -45,7 +37,6 @@ El cambio de idioma es dinámico y afecta todas las secciones del sitio incluyen
 - 📱 **Responsive**: Optimizado para móviles, tablets y escritorio
 - 🎭 **Animaciones**: Transiciones suaves con Framer Motion
 - 🖼️ **Carruseles**: Galería de imágenes con Slick Carousel
-- 📄 **Descarga de CV**: Botón para descargar CV en ambos idiomas
 - 🎯 **Modal Interactivo**: Detalle de proyectos con carrusel de imágenes
 
 ## 📋 Secciones
@@ -204,8 +195,8 @@ MIT License - Libre para uso personal y comercial
 
 ## 👤 Autor
 
-**Luis Martínez**
-- Ingeniero de Sistemas
+**Luis Gabriel Peraza Muñoz**
+- Ingeniero de Sistemas - Universidad Nacional de Colombia
 - Desarrollador Full Stack
 
 ---
