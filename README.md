@@ -5,11 +5,11 @@ Portafolio moderno y profesional para Ingeniero de Sistemas y Desarrollador Full
 [![React](https://img.shields.io/badge/React-19.2.0-blue)](https://reactjs.org/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.23.24-purple)](https://www.framer.com/motion/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-blue)](https://lugapemu98.github.io/portafolio/)
+[![GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-blue)](https://LuisCW.github.io/Portafolio/)
 
 ## 🌐 Ver Demo en Vivo
 
-**🔗 [https://lugapemu98.github.io/portafolio/](https://lugapemu98.github.io/portafolio/)**
+**🔗 [https://LuisCW.github.io/Portafolio/](https://LuisCW.github.io/Portafolio/)**
 
 ## 👨‍💻 Sobre el Desarrollador
 
