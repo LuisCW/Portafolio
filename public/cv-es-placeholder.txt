@@ -1,0 +1,7 @@
+# CV Placeholder - Español
+
+Este es un archivo placeholder. Reemplázalo con tu CV real en PDF.
+
+Para agregar tu CV:
+1. Guarda tu CV en español como "cv-es.pdf" en la carpeta public
+2. Este archivo será descargable desde el portafolio

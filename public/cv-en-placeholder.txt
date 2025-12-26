@@ -1,0 +1,7 @@
+# CV Placeholder - English
+
+This is a placeholder file. Replace it with your real PDF CV.
+
+To add your CV:
+1. Save your CV in English as "cv-en.pdf" in the public folder
+2. This file will be downloadable from the portfolio
