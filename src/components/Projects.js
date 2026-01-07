@@ -18,6 +18,30 @@ const Projects = () => {
 
   const projects = [
     {
+      title: language === 'es' ? 'Graphyra' : 'Graphyra',
+      description: language === 'es'
+        ? 'Proyecto personal de plataforma educativa, con la publicacion de articulos cientificos para todos, una revista digital y la creacion de una comunidad academica donde todos pueden participar, además de la creacion de una academia y una biblioteca para tener los mejores articulos cientificos en un solo lugar.'
+        : 'Personal project of an educational platform, with the publication of scientific articles for everyone, a digital magazine and the creation of an academic community where everyone can participate, in addition to the creation of an academy and a library to have the best scientific articles in one place.',
+      images: [
+        `${process.env.PUBLIC_URL}/images/graphyra1.png`,
+        `${process.env.PUBLIC_URL}/images/graphyra2.png`,
+        `${process.env.PUBLIC_URL}/images/graphyra3.png`,
+        `${process.env.PUBLIC_URL}/images/graphyra4.png`,
+        `${process.env.PUBLIC_URL}/images/graphyra5.png`,
+        `${process.env.PUBLIC_URL}/images/graphyra6.png`,
+        `${process.env.PUBLIC_URL}/images/graphyra7.png`,
+        `${process.env.PUBLIC_URL}/images/graphyra8.png`,
+        `${process.env.PUBLIC_URL}/images/graphyra9.png`,
+        `${process.env.PUBLIC_URL}/images/graphyra10.png`,
+        `${process.env.PUBLIC_URL}/images/graphyra11.png`,
+        `${process.env.PUBLIC_URL}/images/graphyra12.png`,
+        `${process.env.PUBLIC_URL}/images/graphyra13.png`
+      ],
+      tech: ['React.js', 'Nest.js', 'Node.js', 'Java', 'Springboot', 'Python', 'Pandas', 'NumPy', 'PostgreSQL', 'AWS', 'Docker', 'Kubernetes'],
+      github: 'https://github.com/LuisCW/Graphyra',
+      demo: 'https://graphyra.com/'
+    },
+    {
       title: language === 'es' ? 'Plataforma de Comercio Electrónico' : 'E-Commerce Platform',
       description: language === 'es' 
         ? 'Plataforma completa de comercio electrónico para venta de computadoras con pasarela de pago integrada y panel de control para gestión y análisis de ventas y clientes.'
